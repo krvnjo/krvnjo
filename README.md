@@ -1,6 +1,4 @@
-# Hi, I'm Khervin John Quimora 👋
-
-Software Developer passionate about building user-focused digital solutions.
+# Hi, I'm Kj 👋
 
 ---
 
